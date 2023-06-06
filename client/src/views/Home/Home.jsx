@@ -34,7 +34,7 @@ const Home = () => {
 
   return (
     <div>
-      <h1>Esta es la vista de Home</h1>
+      <h1>Home Modificado</h1>
       <div>
         <FilterBar
           allGenres={allGenres}
