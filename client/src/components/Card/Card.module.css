@@ -1,0 +1,19 @@
+.card{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 300px;
+    border-radius: 20px;
+    word-break: break-word;
+    align-items: center;
+    padding: 1em;
+
+}
+
+
+.imageCard{
+    width: 160px;
+    height:120px
+    
+}

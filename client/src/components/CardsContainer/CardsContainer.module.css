@@ -1,0 +1,11 @@
+.container{
+    border: solid rgb(255, 0, 0) 1px;
+    display:flex;
+    flex-direction: row;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    gap: 1em;
+    justify-content: center;
+    margin: 1em;
+    width:1150px;
+}
